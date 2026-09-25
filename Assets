@@ -1,0 +1,15 @@
+assets/
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── main.js
+│
+├── images/
+│   ├── babatunde-ogunlade.jpg
+│   ├── og-image.jpg
+│   ├── media-01.jpg
+│   ├── media-02.jpg
+│   └── media-03.jpg
+│
+└── icons/
